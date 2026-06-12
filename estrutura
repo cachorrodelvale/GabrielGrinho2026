@@ -1,0 +1,15 @@
+ecoagro-news/
+│
+├── index.html
+├── inovacao.html
+├── sustentabilidade.html
+├── casos.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── main.js
+│
+└── assets/
+    └── (suas imagens)
